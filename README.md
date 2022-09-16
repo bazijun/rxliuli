@@ -13,4 +13,4 @@
 ---
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxliuli&theme=tokyonight&hide=python,shell" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rxliuli&show_icons=true&theme=tokyonight&line_height=40&v=5" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rxliuli&show_icons=true&theme=tokyonight&line_height=40&v=5&hide=Total+Stars+Earned" />
